@@ -73,3 +73,7 @@
 /Users/amirsediqi/Desktop/demo/Reactivities/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
 /Users/amirsediqi/Desktop/demo/Reactivities/API/bin/Debug/net7.0/Mono.TextTemplating.dll
 /Users/amirsediqi/Desktop/demo/Reactivities/API/bin/Debug/net7.0/System.CodeDom.dll
+/Users/amirsediqi/Desktop/demo/Reactivities/API/bin/Debug/net7.0/MediatR.dll
+/Users/amirsediqi/Desktop/demo/Reactivities/API/bin/Debug/net7.0/MediatR.Contracts.dll
+/Users/amirsediqi/Desktop/demo/Reactivities/API/bin/Debug/net7.0/AutoMapper.dll
+/Users/amirsediqi/Desktop/demo/Reactivities/API/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll

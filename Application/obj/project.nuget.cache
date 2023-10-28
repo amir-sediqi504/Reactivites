@@ -1,9 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "7CLx4L3+NA/MRI7Mvwdtolk+KindkbOHMM91MPKaVXbQ9y62Etf67eRvzPpj+9JtL5FdQh+/BAvoyO0lDYgbXQ==",
+  "dgSpecHash": "ukpR3KTS0SLmgexmOEVQ9XaF6PSHt4qCIMADm6GPEUfQGR8/LaiqvGPNN6DTirwrpypWt4CopuV6YkJHrqmFsw==",
   "success": true,
   "projectFilePath": "/Users/amirsediqi/Desktop/demo/Reactivities/Application/Application.csproj",
   "expectedPackageFiles": [
+    "/Users/amirsediqi/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
+    "/Users/amirsediqi/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "/Users/amirsediqi/.nuget/packages/mediatr/12.1.1/mediatr.12.1.1.nupkg.sha512",
+    "/Users/amirsediqi/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/amirsediqi/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/amirsediqi/.nuget/packages/microsoft.data.sqlite.core/7.0.13/microsoft.data.sqlite.core.7.0.13.nupkg.sha512",
     "/Users/amirsediqi/.nuget/packages/microsoft.entityframeworkcore/7.0.13/microsoft.entityframeworkcore.7.0.13.nupkg.sha512",
     "/Users/amirsediqi/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.13/microsoft.entityframeworkcore.abstractions.7.0.13.nupkg.sha512",
